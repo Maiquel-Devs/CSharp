@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\nivel_iniciante\\b_variaveis\\b_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\nivel_iniciante\\b_variaveis\\b_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\nivel_iniciante\\b_variaveis\\a_variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\nivel_iniciante\\b_variaveis\\a_variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "B_Constantes.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\B_Variaveis\\B_Constantes.cs",
+              "RelativeDocumentMoniker": "Projeto\\Nivel_Iniciante\\B_Variaveis\\B_Constantes.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\B_Variaveis\\B_Constantes.cs",
+              "RelativeToolTip": "Projeto\\Nivel_Iniciante\\B_Variaveis\\B_Constantes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:17:11.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A_Variaveis.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\B_Variaveis\\A_Variaveis.cs",
+              "RelativeDocumentMoniker": "Projeto\\Nivel_Iniciante\\B_Variaveis\\A_Variaveis.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\B_Variaveis\\A_Variaveis.cs",
+              "RelativeToolTip": "Projeto\\Nivel_Iniciante\\B_Variaveis\\A_Variaveis.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T21:15:56.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Program.cs",
               "RelativeDocumentMoniker": "Projeto\\Program.cs",
@@ -30,8 +64,7 @@
               "RelativeToolTip": "Projeto\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:18:01.498Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-19T17:18:01.498Z"
             }
           ]
         }

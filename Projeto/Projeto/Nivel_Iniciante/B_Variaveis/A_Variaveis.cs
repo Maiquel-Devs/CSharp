@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Projeto.Nivel_Iniciante.B_Variaveis
 {
-    class Variaveis
+    class A_Variaveis
     {
         static void Main(string[] args)
         {
