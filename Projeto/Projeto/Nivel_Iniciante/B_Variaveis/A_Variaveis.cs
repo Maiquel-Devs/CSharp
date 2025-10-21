@@ -10,6 +10,7 @@ namespace Projeto.Nivel_Iniciante.B_Variaveis
     {
         static void Main(string[] args)
         {
+            
             String nome = "João";   // Texto
             int idade = 20;         // Números inteiros
             float altura = 1.73f;   // Número decimal (obrigatório usar 'f' no final)

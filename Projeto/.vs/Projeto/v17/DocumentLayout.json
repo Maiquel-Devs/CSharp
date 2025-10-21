@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\nivel_iniciante\\b_variaveis\\b_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\nivel_iniciante\\b_variaveis\\b_constantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\nivel_iniciante\\h_m\u00E9todo_est\u00E1tico\\z_chamandodeoutraclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\nivel_iniciante\\h_m\u00E9todo_est\u00E1tico\\z_chamandodeoutraclasse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\nivel_iniciante\\b_variaveis\\a_variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\nivel_iniciante\\b_variaveis\\a_variaveis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,34 +25,35 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Index.cs",
+              "RelativeDocumentMoniker": "Projeto\\Index.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Index.cs",
+              "RelativeToolTip": "Projeto\\Index.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T22:21:23.262Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "B_Constantes.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\B_Variaveis\\B_Constantes.cs",
-              "RelativeDocumentMoniker": "Projeto\\Nivel_Iniciante\\B_Variaveis\\B_Constantes.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\B_Variaveis\\B_Constantes.cs",
-              "RelativeToolTip": "Projeto\\Nivel_Iniciante\\B_Variaveis\\B_Constantes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABlAAAAAAAAAA==",
+              "Title": "Z_ChamandoDeOutraClasse.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\H_M\u00E9todo_Est\u00E1tico\\Z_ChamandoDeOutraClasse.cs",
+              "RelativeDocumentMoniker": "Projeto\\Nivel_Iniciante\\H_M\u00E9todo_Est\u00E1tico\\Z_ChamandoDeOutraClasse.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\H_M\u00E9todo_Est\u00E1tico\\Z_ChamandoDeOutraClasse.cs",
+              "RelativeToolTip": "Projeto\\Nivel_Iniciante\\H_M\u00E9todo_Est\u00E1tico\\Z_ChamandoDeOutraClasse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:17:11.774Z",
+              "WhenOpened": "2025-10-21T22:34:21.353Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "A_Variaveis.cs",
-              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\B_Variaveis\\A_Variaveis.cs",
-              "RelativeDocumentMoniker": "Projeto\\Nivel_Iniciante\\B_Variaveis\\A_Variaveis.cs",
-              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Nivel_Iniciante\\B_Variaveis\\A_Variaveis.cs",
-              "RelativeToolTip": "Projeto\\Nivel_Iniciante\\B_Variaveis\\A_Variaveis.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T21:15:56.974Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             },
             {
               "$type": "Document",
@@ -62,9 +63,10 @@
               "RelativeDocumentMoniker": "Projeto\\Program.cs",
               "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Program.cs",
               "RelativeToolTip": "Projeto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-19T17:18:01.498Z"
+              "WhenOpened": "2025-10-19T17:18:01.498Z",
+              "EditorCaption": ""
             }
           ]
         }

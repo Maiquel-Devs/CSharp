@@ -10,6 +10,7 @@ namespace Projeto.Nivel_Iniciante.C_Operadores_Aritmeticos
     {
         static void Main(string[] args)
         {
+            
             int a = 10;
             int b = 2;
 

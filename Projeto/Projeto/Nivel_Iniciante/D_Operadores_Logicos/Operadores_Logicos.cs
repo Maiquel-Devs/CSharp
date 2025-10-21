@@ -10,6 +10,7 @@ namespace Projeto.Nivel_Iniciante.D_Operadores_Logicos
     {
         static void Main(string[] args)
         {
+            
             bool a = true;   // Declara uma variável booleana com valor verdadeiro
             bool b = false;  // Declara uma variável booleana com valor falso
 
