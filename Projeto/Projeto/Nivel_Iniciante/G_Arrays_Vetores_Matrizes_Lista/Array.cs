@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Projeto.Nivel_Iniciante.G_Arrays_Vetores_Matrizes
+namespace Projeto.Nivel_Iniciante.G_Arrays_Vetores_Matrizes_Lista
 {
     internal class Array
     {
