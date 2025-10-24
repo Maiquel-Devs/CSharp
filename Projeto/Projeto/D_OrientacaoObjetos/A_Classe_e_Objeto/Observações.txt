@@ -1,0 +1,31 @@
+﻿VISIBILIDADE PADRAO EM C#
+
+No C#, quando voce nao define o modificador de acesso (como public ou private), o compilador usa valores padrao dependendo de onde o codigo esta.
+
+1 - CLASSES NO TOPO (fora de outra classe)
+O modificador padrao e internal.
+Isso significa que a classe pode ser acessada apenas dentro do mesmo projeto.
+Mesmo que esteja em pastas diferentes dentro do mesmo projeto, ainda pode ser usada normalmente.
+Por outro lado, se voce tentar usar essa classe em outro projeto, ela nao sera visivel.
+
+Exemplo:
+class Pessoa { } // e o mesmo que internal class Pessoa
+
+2 - METODOS, ATRIBUTOS OU PROPRIEDADES (dentro de uma classe)
+O modificador padrao e private.
+Isso quer dizer que so podem ser acessados dentro da propria classe.
+Para permitir o acesso fora dela, e necessario usar public, protected ou outro modificador.
+
+Exemplo:
+class Pessoa
+{
+string nome; // e o mesmo que private string nome
+void Falar() // e o mesmo que private void Falar()
+{
+Console.WriteLine("Ola");
+}
+}
+
+RESUMO:
+Classe no topo: internal - acessivel apenas dentro do projeto.
+Metodo, atributo ou propriedade: private - acessivel apenas dentro da classe.
