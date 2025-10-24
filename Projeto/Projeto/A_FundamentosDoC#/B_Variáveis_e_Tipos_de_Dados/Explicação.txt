@@ -1,0 +1,15 @@
+﻿Explicações sobre Variáveis em C#
+
+Float: é um tipo numérico usado para representar números decimais menores. Ele ocupa menos memória, mas perde precisão em números muito longos.
+Tamanho aproximado: 32 bits
+Precisão: cerca de 7 casas decimais
+
+Double: é um tipo numérico maior e mais preciso que o float. É o tipo padrão para trabalhar com números decimais em C#.
+Tamanho aproximado: 64 bits
+Precisão: cerca de 15 casas decimais
+
+Constantes: são valores que não podem ser alterados após sua definição. Elas são imutáveis, ou seja, uma vez definidas, o valor permanece o mesmo durante toda a execução do programa.
+
+Var: é uma forma de declarar variáveis sem precisar especificar o tipo. O compilador descobre automaticamente o tipo com base no valor que você atribui a ela.
+Por exemplo, se você escrever "var numero = 10", o C# entende que "numero" é do tipo inteiro (int).
+Observação: depois de atribuída, a var não pode mudar de tipo.

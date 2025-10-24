@@ -1,0 +1,11 @@
+﻿O que é C#?
+
+O C# (lê-se "C sharp") é uma linguagem de programação criada pela Microsoft.
+
+Ela é:
+
+- Fortemente tipada (você precisa declarar o tipo de cada variável);
+
+- Baseada em objetos (POO);
+
+- Usada para criar aplicativos de console, desktop, web, jogos (Unity), e até apps mobile (Xamarin/.NET MAUI).
