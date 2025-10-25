@@ -1,0 +1,45 @@
+﻿ENCAPSULAMENTO - GET, SET E IS
+
+No C#, o get e o set fazem parte da linguagem e são usados para controlar o acesso aos atributos de uma classe.
+Eles servem para ler (get) e definir (set) valores de forma segura, sem permitir que o código externo altere diretamente os atributos.
+
+Usar funções get e set é mais seguro do que acessar o atributo direto, pois permite fazer verificações antes de alterar valores.
+Por exemplo, você pode impedir que um número negativo seja atribuído à altura ou largura.
+
+O get e o set são definidos dentro de uma propriedade, que normalmente tem o mesmo nome do atributo, mas com a primeira letra maiúscula.
+Essa convenção serve para diferenciar o atributo da propriedade.
+
+O método is é usado para retornar um valor booleano (verdadeiro ou falso).
+Ele geralmente serve para verificar uma condição dentro da classe.
+
+Exemplo básico:
+Um retângulo pode ter propriedades chamadas Largura e Altura, com validações dentro do set.
+Se as duas forem iguais, o método IsQuadrado() retorna verdadeiro.
+
+Resumo:
+get - usado para pegar o valor de um atributo.
+set - usado para definir o valor de um atributo.
+is - usado para retornar verdadeiro ou falso.
+Usar propriedades com get e set deixa o código mais seguro e organizado.
+
+
+
+No Java:
+
+- Os getters e setters são funções normais.
+
+- Você precisa chamá-los como métodos, com parênteses.
+
+Exemplo: pessoa.setNome("João") e String nome = pessoa.getNome()
+
+No C#:
+
+- Os getters e setters são propriedades da classe, acessadas como se fossem atributos.
+
+- A convenção é que a primeira letra da propriedade seja maiúscula, enquanto o atributo interno continua privado com letra minúscula.
+
+Exemplo: pessoa.Nome = "João" e string nome = pessoa.Nome
+
+Resumo:
+Java → getter e setter são funções.
+C# → getter e setter fazem parte de uma propriedade, acessadas como se fossem atributos.

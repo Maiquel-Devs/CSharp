@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\d_orientacaoobjetos\\c_encapsulamento\\z_explica\u00E7\u00E3o.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\d_orientacaoobjetos\\c_encapsulamento\\z_explica\u00E7\u00E3o.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\d_orientacaoobjetos\\c_encapsulamento\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\d_orientacaoobjetos\\c_encapsulamento\\retangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\d_orientacaoobjetos\\c_encapsulamento\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\d_orientacaoobjetos\\c_encapsulamento\\index.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|c:\\users\\junio\\onedrive\\documentos\\estudos\\csharp\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F471B844-66DD-4042-A1D5-755E5E67970E}|Projeto\\Projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,6 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Z_Explica\u00E7\u00E3o.txt",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Z_Explica\u00E7\u00E3o.txt",
+              "RelativeDocumentMoniker": "Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Z_Explica\u00E7\u00E3o.txt",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Z_Explica\u00E7\u00E3o.txt",
+              "RelativeToolTip": "Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Z_Explica\u00E7\u00E3o.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-25T16:50:51.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Retangulo.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Retangulo.cs",
+              "RelativeDocumentMoniker": "Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Retangulo.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Retangulo.cs",
+              "RelativeToolTip": "Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Retangulo.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:25:16.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cs",
+              "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Index.cs",
+              "RelativeDocumentMoniker": "Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Index.cs",
+              "ToolTip": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Index.cs",
+              "RelativeToolTip": "Projeto\\D_OrientacaoObjetos\\C_Encapsulamento\\Index.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T16:16:30.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\junio\\OneDrive\\Documentos\\Estudos\\CSharp\\Projeto\\Projeto\\Program.cs",
               "RelativeDocumentMoniker": "Projeto\\Program.cs",
