@@ -1,0 +1,29 @@
+﻿Abstração
+
+A abstração é um conceito da programação orientada a objetos que permite definir a estrutura de uma classe sem implementar 
+todos os detalhes, mostrando apenas o que é essencial. Ela é usada principalmente através de classes abstratas e interfaces.
+
+Um método abstrato é aquele que não possui implementação na classe pai. Ele serve para obrigar as classes filhas a 
+fornecerem sua própria implementação. Ou seja, você define o método na classe pai apenas e depois reescreve esse 
+método nas classes filhas, adaptando o comportamento para cada tipo específico.
+
+Por exemplo, uma classe abstrata chamada Animal pode definir que todos os animais devem ter um método chamado EmitirSom. 
+Cada classe filha, como Cachorro, deve obrigatoriamente implementar esse método, definindo seu próprio comportamento, 
+como emitir “latindo”.
+
+Existem diferentes formas de instanciar e chamar métodos abstratos:
+
+Cachorro cachorro = new Cachorro();
+cachorro.EmitirSom(); → Chama o método implementado na classe Cachorro.
+
+Animal a = new Cachorro();
+a.EmitirSom(); → Chama o método implementado na classe Cachorro através da referência da classe abstrata Animal. 
+			     Isso mostra como o polimorfismo funciona junto com a abstração.
+
+Animal a = new Animal(); → ERRO, pois não é permitido instanciar uma classe abstrata diretamente; 
+						   ela serve apenas como modelo para as classes filhas.
+
+
+Em resumo, a abstração organiza o código, obriga que métodos essenciais sejam implementados nas classes filhas, 
+impede a criação de instâncias da classe abstrata e, junto com o polimorfismo, permite usar referências da classe pai para 
+chamar métodos das classes filhas, garantindo flexibilidade e reutilização de código.

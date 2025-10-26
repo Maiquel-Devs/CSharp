@@ -1,0 +1,21 @@
+﻿Polimorfismo
+
+O polimorfismo é um dos pilares da programação orientada a objetos e está diretamente ligado ao conceito de herança.
+Ele permite que uma mesma ação tenha diferentes comportamentos, dependendo do tipo do objeto que a executa.
+
+Primeiro, criamos uma classe base, como “Animal”, que contém um método marcado com a palavra-chave virtual.
+Esse modificador indica que o método pode ser sobrescrito pelas classes filhas.
+Em seguida, criamos uma classe derivada, como “Cachorro”, que herda de “Animal” e utiliza a palavra-chave override para 
+substituir o comportamento do método herdado.
+
+Dessa forma, o método “EmitirSom” da classe “Animal” pode ser reescrito na classe “Cachorro” para emitir um som específico, 
+como “Latindo”.
+
+O polimorfismo torna o código mais organizado, reaproveitável e flexível, permitindo reutilizar a estrutura da classe pai e 
+personalizar o comportamento nas classes filhas, sem precisar repetir o mesmo código várias vezes.
+
+Palavras-chave importantes:
+
+virtual → Permite que o método da classe pai seja modificado nas classes filhas
+
+override → Indica que o método está substituindo o da classe pai
